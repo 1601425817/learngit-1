@@ -10,5 +10,5 @@ public class HelloWorld{
 	public static void say(){
 		System.out.println("Say");
 	}
-    
+    System.out.println("Ò»´ÎÊä³ö£¡");
 }
